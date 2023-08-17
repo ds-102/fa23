@@ -41,3 +41,28 @@ UC Berkeley, Fall 2023
 {{ module }}
 {% endfor %}
 
+<!-- <script src="resources/assets/darkmode.js"></script>
+<script>
+  const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+  jtd.addEvent(toggleDarkMode, 'click', function(){
+    if (jtd.getTheme() === 'custom_dark') {
+      jtd.setTheme('light');
+      localStorage.setItem("darkMode", 0);
+      toggleDarkMode.innerHTML = "Toggle Dark Mode";
+      toggleDarkMode.classList.add('dm-btn');
+        toggleDarkMode.classList.remove('dm-dark-btn');
+    } else {
+      jtd.setTheme('custom_dark');
+      localStorage.setItem("darkMode", 1);
+      toggleDarkMode.innerHTML = "Return to the Light";
+      toggleDarkMode.classList.add('dm-dark-btn');
+      toggleDarkMode.classList.remove('dm-btn');
+    }
+  });
+
+    window.addEventListener("DOMContentLoaded", (event) => {
+      onLoad();
+  });
+</script> -->
+

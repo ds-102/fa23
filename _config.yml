@@ -38,7 +38,7 @@ footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 heading_anchors: false
 
-color_scheme: wider
+# color_scheme: wider
 
 # Collections for website data
 collections:
