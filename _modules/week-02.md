@@ -12,7 +12,7 @@ Aug 30
 : **Discussion**{: .label .label-disc } Discussion 1
 
 Aug 31
-: **Lecture 3**{: .label .label-lecture} $$p$$-Values and Multiple Hypothesis Testing
+: **Lecture 3**{: .label .label-lecture} p-Values and Multiple Hypothesis Testing
 : **Vitamin**{: .label .label-survey } Vitamin 2 (due Sep 3)
 
 Sep 1
