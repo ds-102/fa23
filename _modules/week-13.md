@@ -11,3 +11,6 @@ Nov 14
 Nov 16
 : **Lecture 23**{: .label .label-lecture } High-dimensional regression
 : **Vitamin**{: .label .label-survey } Vitamin 13 (due Nov 19)
+
+Nov 17
+: **Homework**{: .label .label-hw } Homework 6 (due Dec 1)

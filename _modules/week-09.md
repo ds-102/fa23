@@ -14,3 +14,6 @@ Oct 18
 Oct 19
 : **Lecture 16**{: .label .label-lecture } Randomized Experiments
 : **Vitamin**{: .label .label-survey } Vitamin 9 (due Oct 22)
+
+Oct 20
+: **Homework**{: .label .label-hw } Homework 4 (due Nov 3)

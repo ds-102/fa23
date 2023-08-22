@@ -14,3 +14,6 @@ Nov 1
 Nov 2
 : **Lecture 20**{: .label .label-lecture } Bandits II
 : **Vitamin**{: .label .label-survey } Vitamin 11 (due Nov 5)
+
+Nov 3
+: **Homework**{: .label .label-hw } Homework 5 (due Nov 10)

@@ -1,6 +1,6 @@
 ---
 name: Yehchan Yoo
-role: Reader
+role: 'UCS1'
 email: yehchanyoo@berkeley.edu
 website: https://focicle2020.github.io/
 photo: http://data102.org/fa23/resources/assets/staff_pics/Yehchan_Yoo.jpeg

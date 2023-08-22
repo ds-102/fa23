@@ -14,3 +14,6 @@ Oct 4
 Oct 5
 : **Midterm**{: .label .label-exam} Midterm 1
 : **Vitamin**{: .label .label-survey } Vitamin 7 (due Oct 8)
+
+Oct 6
+: **Homework**{: .label .label-hw } Homework 3 (due Oct 20)

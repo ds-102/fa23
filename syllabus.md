@@ -75,7 +75,7 @@ Grades will be assigned using the following weighted components:
 |**Category**| **Percentage** | **Details** |
 | -- | -- | -- |
 | Vitamins| 5% | Drop 2 lowest scores |
-| Homeworks | 20% | 5 slip days |
+| Homeworks | 20% | No drop; 5 slip days |
 | Labs | 15% | Drop 2 lowest scores
 | Midterm 1 | 20% | |
 | Midterm 2 | 20% | |
@@ -124,14 +124,18 @@ The [Extenuating Circumstances Form](https://docs.google.com/forms/d/e/1FAIpQLSe
 
 We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
-Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline. We will not grant accommodations for these cases; instead, please use drops or slip days to cushion these submission errors.
+Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the deadlines. Additionally, extenuating circumstances do not extend to workload-related issues. It is the student’s responsibility to manage their other coursework and extracurricular commitments. We will not grant accommodations for these cases; instead, please use drops or slip days to cushion these issues.
+
+Lastly, make sure to submit extension requests before the assignment deadline. We will not entertain any extension requests made after assignment deadlines.
+
+Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
 
 ### DSP Accommodations
 
 If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes confirming your accommodations. Otherwise, email data102@berkeley.edu. DSP students who receive approved assignment accommodations will have a 2-day extension on homeworks and 1-day extension on labs and vitamins. Please note that any extension, plus slip days, cannot exceed 5 days. DSP students can submit assignment extension accommodation requests via the Extenuating Circumstances Form.
 
-You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. 
 
 
 ### Collaboration Policy
@@ -141,6 +145,8 @@ Data science is a collaborative activity. While you may talk with others about t
 ## Waitlist
 
 If you are on the waitlist, you should complete and submit all assignments as if enrolled: we will not offer any makeup assignments for waitlisted students.
+
+For all other enrollment related issues, please reach out to the Data Science advisors, as instructors and staff do not manage enrollment.
 
 ## We Want You to Succeed
 

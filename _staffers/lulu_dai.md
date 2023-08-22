@@ -1,6 +1,6 @@
 ---
 name: Lulu Dai
-role: Reader
+role: UCS1
 email: luludai@berkeley.edu
 website: 
 photo: http://data102.org/fa23/resources/assets/staff_pics/Lulu_Dai.jpg

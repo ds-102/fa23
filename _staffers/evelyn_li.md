@@ -1,6 +1,6 @@
 ---
 name: Evelyn Li
-role: Reader
+role: UCS1
 email: eve2018@berkeley.edu
 website: 
 photo: http://data102.org/fa23/resources/assets/staff_pics/Evelyn_Li.jpeg

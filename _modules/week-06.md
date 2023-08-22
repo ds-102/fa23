@@ -8,9 +8,9 @@ Sep 25
 Sep 26
 : **Lecture 10**{: .label .label-lecture } Regression and GLMs
 
-Sep 20
+Sep 27
 : **Discussion**{: .label .label-disc } Discussion 5
 
-Sep 21
+Sep 28
 : **Lecture 11**{: .label .label-lecture} Model checking for GLMs
 : **Vitamin**{: .label .label-survey } Vitamin 6 (due Oct 1)

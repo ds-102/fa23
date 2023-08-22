@@ -7,9 +7,9 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [Readers](#readers).
+Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [UCS1s](#ucs1).
 
-**Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours for each GSI. All GSI Office Hours will be held in Warren 101B.
+**Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours for each GSI.
 
 ## Course Staff Email
 Contact course staff via [Ed](https://edstem.org/us/courses/42657) with any questions or concerns. For sensitive matters, the staff email address [data102@berkeley.edu](mailto:data102@berkeley.edu) is monitored by the instructors and a few lead TAs.
@@ -51,13 +51,13 @@ Contact course staff via [Ed](https://edstem.org/us/courses/42657) with any ques
 -->
 
 
-<a name = 'readers'></a>
+<a name = 'ucs1'></a>
 
-## Readers
+## UCS1
 
 <div class="role">
-  {% assign readers = site.staffers | where: 'role', 'Reader' %}
-  {% for staffer in readers %}
-  {{ staffer }}
+  {% assign ucs1s = site.staffers | where: 'role', 'UCS1' %}
+  {% for staffer in ucs1s %}
+    {{ staffer }}
   {% endfor %}
 </div>
