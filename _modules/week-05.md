@@ -13,4 +13,4 @@ Sep 20
 
 Sep 21
 : **Lecture 9**{: .label .label-lecture} Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
-: **Vitamin**{: .label .label-survey } Vitamin 5 (due Sep 24)
+: **Vitamin**{: .label .label-vit } Vitamin 5 (due Sep 24)

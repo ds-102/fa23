@@ -13,4 +13,4 @@ Nov 8
 
 Nov 9
 : **Lecture 22**{: .label .label-lecture } Reinforcement Learning II
-: **Vitamin**{: .label .label-survey } Vitamin 12 (due Nov 12)
+: **Vitamin**{: .label .label-vit } Vitamin 12 (due Nov 12)

@@ -12,8 +12,8 @@ Oct 4
 : **Discussion**{: .label .label-disc } Discussion 6
 
 Oct 5
-: **Midterm**{: .label .label-exam} Midterm 1
-: **Vitamin**{: .label .label-survey } Vitamin 7 (due Oct 8)
+: **Midterm**{: .label .label-exam} Midterm 1 (7-9 PM)
+: **Vitamin**{: .label .label-vit } Vitamin 7 (due Oct 8)
 
 Oct 6
 : **Homework**{: .label .label-hw } Homework 3 (due Oct 20)

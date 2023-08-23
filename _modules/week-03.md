@@ -13,4 +13,4 @@ Sep 6
 
 Sep 7
 : **Lecture 5**{: .label .label-lecture} Frequentist vs. Bayesian Decision-Making
-: **Vitamin**{: .label .label-survey } Vitamin 3 (due Sep 10)
+: **Vitamin**{: .label .label-vit } Vitamin 3 (due Sep 10)

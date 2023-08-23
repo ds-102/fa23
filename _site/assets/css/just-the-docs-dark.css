@@ -2439,13 +2439,12 @@ blockquote.highlight-title > p:last-child { margin-bottom: 0; }
 @media (min-width: 31.25rem) { .main-content .module > dl > dd dl, .module > dl > dd dl { flex-direction: row; } }
 .main-content .module > dl > dd dl dt, .module > dl > dd dl dt { flex: 0 0 80%; margin: 0; }
 .main-content .module > dl > dd dl dd, .module > dl > dd dl dd { margin: 0; }
-.main-content .module > dl .label-lecture, .module > dl .label-lecture { background-color: #4767FF; border-radius: 9px; }
-.main-content .module > dl .label-lab, .module > dl .label-lab { background-color: #C82DC6; border-radius: 9px; }
+.main-content .module > dl .label-lecture, .module > dl .label-lecture { background-color: #5C5962; border-radius: 9px; }
+.main-content .module > dl .label-lab, .module > dl .label-lab { background-color: #0461b8; border-radius: 9px; }
 .main-content .module > dl .label-vit, .module > dl .label-vit { background-color: #c1443c; border-radius: 9px; }
-.main-content .module > dl .label-live, .module > dl .label-live { background-color: #7A77B9; border-radius: 9px; }
-.main-content .module > dl .label-hw, .module > dl .label-hw { background-color: #E62100; border-radius: 9px; }
+.main-content .module > dl .label-hw, .module > dl .label-hw { background-color: #5E41D0; border-radius: 9px; }
+.main-content .module > dl .label-exam, .module > dl .label-exam { background-color: #E62100; border-radius: 9px; }
 .main-content .module > dl .label-crit, .module > dl .label-crit { background-color: #FF8144; border-radius: 9px; }
-.main-content .module > dl .label-exam, .module > dl .label-exam { background-color: #000000; border-radius: 9px; }
 .main-content .module > dl .label-disc, .module > dl .label-disc { background-color: #498226; border-radius: 9px; }
 .main-content .module > dl .label-survey, .module > dl .label-survey { background-color: #aaaaaa; border-radius: 9px; }
 .main-content .module > dl .label-proj, .module > dl .label-proj { background-color: #FF8144; border-radius: 9px; }

@@ -10,4 +10,4 @@ Oct 11
 
 Oct 12
 : **Lecture 14**{: .label .label-lecture } Neural Networks and Interpretability
-: **Vitamin**{: .label .label-survey } Vitamin 8 (due Oct 15)
+: **Vitamin**{: .label .label-vit } Vitamin 8 (due Oct 15)

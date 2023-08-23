@@ -13,4 +13,4 @@ Oct 25
 
 Oct 26
 : **Lecture 18**{: .label .label-lecture } Concentration Inequalities
-: **Vitamin**{: .label .label-survey } Vitamin 10 (due Oct 29)
+: **Vitamin**{: .label .label-vit } Vitamin 10 (due Oct 29)

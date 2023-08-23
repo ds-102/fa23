@@ -13,4 +13,4 @@ Sep 27
 
 Sep 28
 : **Lecture 11**{: .label .label-lecture} Model checking for GLMs
-: **Vitamin**{: .label .label-survey } Vitamin 6 (due Oct 1)
+: **Vitamin**{: .label .label-vit } Vitamin 6 (due Oct 1)
