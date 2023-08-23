@@ -11,4 +11,4 @@ Nov 29
 : **Discussion**{: .label .label-disc } Discussion 12
 
 Nov 30
-: **Lecture 26**{: .label .label-vit } Course Wrap-Up
+: **Lecture 26**{: .label .label-lecture } Course Wrap-Up
