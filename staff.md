@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [UCS1s](#ucs1).
+Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [Tutors](#tutors).
 
 **Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours for each GSI.
 
@@ -51,9 +51,9 @@ Contact course staff via [Ed](https://edstem.org/us/courses/42657) with any ques
 -->
 
 
-<a name = 'ucs1'></a>
+<a name = 'tutors'></a>
 
-## UCS1
+## Tutors
 
 <div class="role">
   {% assign ucs1s = site.staffers | where: 'role', 'UCS1' %}

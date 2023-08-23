@@ -33,39 +33,65 @@ This class is listed as [Data 102](https://classes.berkeley.edu/content/2023-fal
 <a name = 'prereq'></a>
 ## Prerequisites
 
-While we are working to make this class widely accessible we currently require the following (or equivalent) prerequisites :
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites :
 
-1. Principles and Techniques of Data Science: [Data 100](http://ds100.org/) covers important computational and statistical skills that will be necessary for Data 102.
+1. **Principles and Techniques of Data Science**: [Data 100](http://ds100.org/) covers important computational and statistical skills that will be necessary for Data 102.
 
-1. Probability: Probability for Data Science Data 140, or Probability and Random Processes EECS126, or Concepts of Probability STAT134, or Probability and Risk Analysis for Engineers IEOR 172, or Mathematical Probability Theory Math 106. EECS126 and Data 140 are preferred. These courses cover the probabilistic tools that will form the underpinning for the concepts covered in Data 102.
+1. **Probability**: [Data 140](http://prob140.org/), [EECS 126](https://inst.eecs.berkeley.edu/~ee126), [STAT 134](https://www.stat134.org/), [IEOR 172](https://guide.berkeley.edu/courses/ind_eng/), or [Math 106](https://guide.berkeley.edu/courses/math/).  Data 140 and EECS 126 are preferred. These courses cover the probabilistic tools that will form the underpinning for the concepts covered in Data 102.
 
-1. Math: Linear Algebra & Differential Equations Math 54, or Linear Algebra Math 56, or Linear Algebra Math 110, or both Designing Information Devices and Systems I EE16A and Designing Information Devices and Systems II EE16B, or Linear Algebra for Data Science Stat 89a, or Introduction to Mathematical Physics PHYSICS89. We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.
+1. **Math**: Math 54, Math 56, Math 110, both EE 16A and EE 16B, STAT 89a, or Physics 89. We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.
 
 Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material.
 
 ## Course Components
 
 ### Lectures
+{:.no_toc}
 
-Lectures will be held in-person Tuesdays and Thursdays from 3:30 - 5pm in Li Ka Shing 245. Recordings will be made available on bCourses within 24 hours.
+Lectures will be held in-person **Tuesdays and Thursdays from 3:30 - 5pm in Li Ka Shing 245**. Recordings will be made available on bCourses within 24 hours.
 
 ### Discussion sessions
-Discussion section will be held on Wednesdays, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in the lecture with the skills you’ll need to apply the ideas on the homework and beyond.
+{:.no_toc}
+Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond.
 
-### Lab
-Labs will be held on Mondays in-person. You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
+A few weeks into the semester, we will start the Supplemental Sections. A typical Supplemental Section consists of prerequisite content you might forgot or missed from Data 100/140 and “catch up” content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Attending these sections is optional.
+
+### Lab sessions
+{:.no_toc}
+Labs will be held on **Mondays** by GSIs. You will be working on lab assignments with your GSI in these sections. You can complete the assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff. Help will be limited on Ed and office hours because of this.
+
+### Homeworks
+{:.no_toc} 
+Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures.
+
+- All homeworks must be submitted to Gradescope by their posted deadlines.
+- Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, or forgetting to select pages)
+- The primary form of support students will have for homeworks are **office hours** and **Ed**.
+
+### Vitamins
+{:.no_toc}
+Vitamins are weekly short Gradescope assignments to check that you are keeping up with lectures. They will be released on Thursdays after lecture and due on Sundays.
+
+### Exams
+{:.no_toc}
+
+There will be two midterms in this class:
+
+- Midterm 1 on **October 5, 2023**, 7-9PM 
+- Midterm 2 on **November 14, 2023**, 7-9PM 
+
+There will **not** be a final exam. 
+
+All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline**.
+
+### Final Project
+{:.no_toc}
+At the end of the semester, you will apply the knowledge you learned in this class on a real-world dataset to complete a final project. You will be working in groups of 4.
+
+More details will be announced on Ed closer to the end of term.
+
 
 ## Grading Policies
-
-### Assignments
-
-You will be assessed through the following assignments:
-
-* (about) 14 weekly vitamins
-* 6 homework assignments
-* 12 lab assignments
-* 2 midterms
-* 1 final project
 
 
 ### Grading Scheme
@@ -82,8 +108,8 @@ Grades will be assigned using the following weighted components:
 | Final project| 20% | |
 
 #### Grading criteria
+{:.no_toc}
 
-* Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
 * Homework will be graded on completion and correctness. No assignment may be dropped, but we have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * When submitting assignments on Gradescope, **you must match each page to the corresponding question on Gradescope**. If you fail to do so, you may not receive credit for your work!
@@ -94,22 +120,9 @@ Grades will be assigned using the following weighted components:
 * To ensure that our grading team is not overworked, **regrade requests for each assignment must be submitted before the deadline** (except in cases of emergencies).
 * Note: When you submit a regrade request, we will take a fresh look at the question, so it is possible that you will receive a grade lower that what you originally received.
 
-### Exams
-
-There will be two midterms in this class:
-
-- Midterm 1 on **October 5, 2023** 7-9PM 
-- Midterm 2 on **November 14, 2023** 7-9PM 
-
-All exams must be taken in-person. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
-
-<!--The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.-->
-
-Exams will be held in person. Further information will be communicated in due course.
-
 ### Slip Days
 
-Each student gets an extension budget of 5 total slip days. You can use the extension on homework assignments only (not lab assignments, weekly vitamins, or the final project) during the semester. Some important notes on slip days:
+Each student gets an extension budget of 5 total slip days. You can use the extension on homework assignments only (not lab assignments, vitamins, or the final project) during the semester. Some important notes on slip days:
 * **Do not plan to use your slip days**: we're providing them for unforeseen circumstances.
 * **Slip days are self-serve**: we'll apply them to your assignments automatically.
 * **Slip days are full days, not hours.** We round up, so if you are 1 hour late, then 1 slip day will be used. (Why? We’d rather you get some sleep and make an attempt to finish the assignment the next day instead of staying up to micromanage hours.)
@@ -124,46 +137,44 @@ The [Extenuating Circumstances Form](https://docs.google.com/forms/d/e/1FAIpQLSe
 
 We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
-Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the deadlines. Additionally, extenuating circumstances do not extend to workload-related issues. It is the student’s responsibility to manage their other coursework and extracurricular commitments. We will not grant accommodations for these cases; instead, please use drops or slip days to cushion these issues.
+Note that extenuating circumstances do not extend to the following:
+- Logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the student’s responsibility to identify and resolve these issues in advance of the deadlines. 
+- Workload-related issues. It is the student’s responsibility to manage their other coursework and extracurricular commitments. We will not grant accommodations for these cases; instead, please use drops or slip days to cushion these issues.
+- Requests made **after** the assignment deadlines. Please make sure to submit a request before the assignment is due.
 
-Lastly, make sure to submit extension requests before the assignment deadline. We will not entertain any extension requests made after assignment deadlines.
-
-Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+Finally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
 
 ### DSP Accommodations
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes confirming your accommodations. Otherwise, email data102@berkeley.edu. DSP students who receive approved assignment accommodations will have a 2-day extension on homeworks and 1-day extension on labs and vitamins. Please note that any extension, plus slip days, cannot exceed 5 days. DSP students can submit assignment extension accommodation requests via the Extenuating Circumstances Form.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes confirming your accommodations. Otherwise, email data102@berkeley.edu. DSP students who receive approved assignment accommodations will have a 2-day extension on homeworks and 1-day extension on labs and vitamins. Please note that any extension, plus slip days, cannot exceed 5 days. DSP students can submit assignment extension accommodation requests via the [Extenuating Circumstances Form](https://docs.google.com/forms/d/e/1FAIpQLSerF4KsagLRLNPIfRnHPT1B_RuGRRAAl2CBdLz-tvMY2mbjYQ/viewform?usp=sf_link).
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. 
 
+### Collaboration and Academic Integrity
 
-### Collaboration Policy
-
-Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from the homeworks and labs will likely be covered on both of the midterms. We will be following the EECS departmental policy on Academic Honesty, so be sure you are familiar with it.
-
-## Waitlist
-
-If you are on the waitlist, you should complete and submit all assignments as if enrolled: we will not offer any makeup assignments for waitlisted students.
-
-For all other enrollment related issues, please reach out to the Data Science advisors, as instructors and staff do not manage enrollment.
-
-## We Want You to Succeed
-
-If you are feeling overwhelmed, visit our office hours and talk with us. We know college can be stressful and we want to help you succeed!
-
-## Campus Honor Code
+Data science is a collaborative activity. While you may talk with others about the homework, we ask that you write your solutions individually. If you do discuss the assignments with others please include their names at the top of your notebook. Keep in mind that content from the homeworks and labs will likely be covered on both of the midterms. We will be following the campus policy on [Academic Honesty](https://teaching.berkeley.edu/statements-course-policies), so be sure you are familiar with it.
 
 As a member of the Berkeley community, we expect you to follow the Berkeley Honor Code:
 
 “As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.”
 
+## Waitlist
 
-## Device Lending options
-Students can access device lending options through the Student Technology Equity Program STEP program.
+If you are on the waitlist, you should complete and submit all assignments as if enrolled: we will not offer any makeup assignments or extensions for waitlisted students.
 
-## Data Science Student Climate
-Data Science Undergraduate Studies faculty and staff are committed to creating a community where every person feels respected, included, and supported. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this online form.
+For all other enrollment related issues, please reach out to the [Data Science advisors](https://data.berkeley.edu/fall-2023-classes-enrollment-info), as instructors and staff do not manage enrollment into the class.
 
-## Community Standards
-Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct.
+## Community Resources
+
+### Device Lending options
+{:.no_toc}
+Students can access device lending options through the Student Technology Equity Program [STEP program](https://studenttech.berkeley.edu/devicelending).
+
+### Data Science Student Climate
+{:.no_toc}
+[Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at [cpteller@berkeley.edu](mailto:cpteller@berkeley.edu) or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+
+### Community Standards
+{:.no_toc}
+Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference Berkeley’s [Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Home / Schedule
+title: Home
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: 1
+currWeekNumber: week-1-introductions
 ---
 
 # Data 102: Data, Inference, and Decisions
@@ -36,6 +36,7 @@ UC Berkeley, Fall 2023
 
 <a name="schedule"></a>
 ## Schedule
+[**Jump to current week**](#{{page.currWeekNumber}}){: .btn }
 
 {% for module in site.modules %}
 {{ module }}

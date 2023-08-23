@@ -22,7 +22,7 @@ logo: 'resources/assets/favicon/ms-icon-310x310.png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
-color_scheme: light
+color_scheme: wider
 search_enabled: true
 permalink: pretty
 
@@ -66,3 +66,5 @@ defaults:
 callouts:
   highlight:
     color: yellow
+
+math: mathjax
