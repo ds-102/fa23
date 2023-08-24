@@ -30,8 +30,10 @@ UC Berkeley, Fall 2023
   </div>
 </div>
 
-{: .highlight }
-> This website is still a work in progress. All contents on this page are subject to change until this message is taken down.
+<!-- {: .highlight }
+> Welcome to Data 102!  -->
+{% assign announcement = site.announcements | last %}
+{{ announcement }}
 
 
 <a name="schedule"></a>
