@@ -48,13 +48,13 @@ Please consult the [Resources](../resources) page for additional resources for r
 ### Lectures
 {:.no_toc}
 
-Lectures will be held in-person **Tuesdays and Thursdays from 3:30 - 5pm in Li Ka Shing 245**. Recordings will be made available on bCourses within 24 hours.
+Lectures will be held in-person **Tuesdays and Thursdays** from **3:30 - 5pm in Li Ka Shing 245**. Recordings will be made available on the course website within 24 hours.
 
 ### Discussion sessions
 {:.no_toc}
 Discussion section will be held on **Wednesdays**, led by your GSIs. These sections will cover important problem-solving skills that bridge the concepts in lectures with the skills you’ll need to apply the ideas on the homework and beyond.
 
-A few weeks into the semester, we will start the Supplemental Sections. A typical Supplemental Section consists of prerequisite content you might forgot or missed from Data 100/140 and “catch up” content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Attending these sections is optional.
+A few weeks into the semester, we will start the Supplemental Sections. A typical Supplemental Section consists of prerequisite content you might've forgotten or missed from Data 100/140 and “catch up” content to reinforce material you may have missed in the previous week. Details will be posted on Ed. Attending these sections is optional.
 
 ### Lab sessions
 {:.no_toc}
@@ -62,10 +62,10 @@ Labs will be held on **Mondays** by GSIs. You will be working on lab assignments
 
 ### Homeworks
 {:.no_toc} 
-Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures.
+Homework assignments are released every other week on Fridays and due two Fridays after. These assignments are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lectures. They contain both math and coding tasks.
 
 - All homeworks must be submitted to Gradescope by their posted deadlines.
-- Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, or forgetting to select pages)
+- Each assignment will include detailed instructions on how to submit your work for grading. It is the student’s responsibility to read these carefully and ensure that their work is submitted correctly. Assignment accommodations will not be granted in cases where students have mis-submitted their work (for example, by submitting to the wrong portal, submitting only part of an assignment, or forgetting to select pages).
 - The primary form of support students will have for homeworks are **office hours** and **Ed**.
 
 ### Vitamins
