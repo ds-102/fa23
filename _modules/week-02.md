@@ -6,7 +6,7 @@ Aug 28
 : **Lab 0**{: .label .label-lab } [Review and Warm-up](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flab%2Flab0%2Flab0.ipynb&branch=main) (due Aug 30)
 
 Aug 29
-: **Lecture 2**{: .label .label-lecture } Binary Decision-Making
+: **Lecture 2**{: .label .label-lecture } [Binary Decision-Making](lecture/lec02)
 
 Aug 30
 : **Discussion**{: .label .label-disc } Discussion 1
