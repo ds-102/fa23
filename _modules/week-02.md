@@ -13,7 +13,7 @@ Aug 30
     : [Solution](https://drive.google.com/file/d/15bd0PiXR0IFCSgH437s7TN5roONlMCAZ/view?usp=sharing)
 
 Aug 31
-: **Lecture 3**{: .label .label-lecture} $$p$$-Values and Multiple Hypothesis Testing
+: **Lecture 3**{: .label .label-lecture} [$$p$$-Values and Multiple Hypothesis Testing](lecture/lec03)
 : **Vitamin**{: .label .label-vit } Vitamin 2 (due Sep 3)
 
 Sep 1
