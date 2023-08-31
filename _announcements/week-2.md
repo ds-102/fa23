@@ -5,4 +5,4 @@ date: 2023-08-28
 ---
 
 - Lab and Discussion sections start this week! Check the [calendar](calendar) page for times and locations. 
-- Please carefully read through the [course policies](syllabus), which covers the details of the course this fall.
+- Fill out the [Exam Conflict Form](https://edstem.org/us/courses/42657/discussion/3361044) if one of the exams conflict with your other commitments.
