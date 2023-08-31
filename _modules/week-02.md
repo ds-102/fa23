@@ -10,6 +10,7 @@ Aug 29
 
 Aug 30
 : **Discussion**{: .label .label-disc } [Discussion 1](https://drive.google.com/file/d/11nBCcLZU_gZlQv_HT3LDdPYkM94-xaaQ/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/15bd0PiXR0IFCSgH437s7TN5roONlMCAZ/view?usp=sharing)
 
 Aug 31
 : **Lecture 3**{: .label .label-lecture} $$p$$-Values and Multiple Hypothesis Testing
