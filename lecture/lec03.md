@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 2 - p-Values and Multiple Hypothesis Testing
+title: Lecture 3 - p-Values and Multiple Hypothesis Testing
 nav_exclude: true
 ---
 
