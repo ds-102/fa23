@@ -14,7 +14,7 @@ Aug 30
 
 Aug 31
 : **Lecture 3**{: .label .label-lecture} [$$p$$-Values and Multiple Hypothesis Testing](lecture/lec03)
-: **Vitamin**{: .label .label-vit } Vitamin 2 (due Sep 3)
+: **Vitamin**{: .label .label-vit } [Vitamin 2](https://www.gradescope.com/courses/572015/assignments/3229821) (due Sep 3)
 
 Sep 1
 : **Homework**{: .label .label-hw } Homework 1 (due Sep 15)
