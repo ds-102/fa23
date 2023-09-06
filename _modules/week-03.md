@@ -9,7 +9,7 @@ Sep 5
 : **Lecture 4**{: .label .label-lecture } [Online False Discovery Rate Control & ROC curves](lecture/lec04)
 
 Sep 6
-: **Discussion**{: .label .label-disc } Discussion 2
+: **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/16FMzCKC7u0VO4dL1rp3D4b52U2RwSuI_/view?usp=sharing)
 
 Sep 7
 : **Lecture 5**{: .label .label-lecture} Frequentist vs. Bayesian Decision-Making
