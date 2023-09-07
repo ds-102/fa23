@@ -10,6 +10,7 @@ Sep 5
 
 Sep 6
 : **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/16FMzCKC7u0VO4dL1rp3D4b52U2RwSuI_/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1wpBM5Ou76Bjb-dD0rvXB9y8VmsldOilA/view?usp=sharing)
 
 Sep 7
 : **Lecture 5**{: .label .label-lecture} Frequentist vs. Bayesian Decision-Making
