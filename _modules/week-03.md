@@ -13,5 +13,5 @@ Sep 6
     : [Solution](https://drive.google.com/file/d/1wpBM5Ou76Bjb-dD0rvXB9y8VmsldOilA/view?usp=sharing)
 
 Sep 7
-: **Lecture 5**{: .label .label-lecture} Frequentist vs. Bayesian Decision-Making
+: **Lecture 5**{: .label .label-lecture} [Frequentist vs. Bayesian Decision-Making](lecture/lec05)
 : **Vitamin**{: .label .label-vit } Vitamin 3 (due Sep 10)
