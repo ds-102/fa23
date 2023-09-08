@@ -14,4 +14,4 @@ Sep 6
 
 Sep 7
 : **Lecture 5**{: .label .label-lecture} [Frequentist vs. Bayesian Decision-Making](lecture/lec05)
-: **Vitamin**{: .label .label-vit } Vitamin 3 (due Sep 10)
+: **Vitamin**{: .label .label-vit } [Vitamin 3](https://www.gradescope.com/courses/572015/assignments/3283399) (due Sep 10)
