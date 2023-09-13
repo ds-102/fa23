@@ -15,7 +15,7 @@
   },"2": {
     "doc": "Announcements",
     "title": "Week 4",
-    "content": "Sep 11 . | Homework 1 is due this Friday at 5PM. Homework Party will be Tuesday 5-7PM in Warren 101B Section A. | Lab 2 is released and due Wednesday 11:59PM. | . ",
+    "content": "Sep 11 . | Homework 1 is due this Friday at 5PM. | Homework Party will be Tuesday 5-7PM in Warren 101B Section A. | Office hours are updated. Check the calendar page for the most up-to-date schedule. | . | Lab 2 is released and due Wednesday 11:59PM. | . ",
     "url": "/fa23/announcements/",
     
     "relUrl": "/announcements/"
@@ -57,7 +57,7 @@
   },"8": {
     "doc": "Home",
     "title": "Week 4",
-    "content": "Sep 11 . | Homework 1 is due this Friday at 5PM. Homework Party will be Tuesday 5-7PM in Warren 101B Section A. | Lab 2 is released and due Wednesday 11:59PM. | . ",
+    "content": "Sep 11 . | Homework 1 is due this Friday at 5PM. | Homework Party will be Tuesday 5-7PM in Warren 101B Section A. | Office hours are updated. Check the calendar page for the most up-to-date schedule. | . | Lab 2 is released and due Wednesday 11:59PM. | . ",
     "url": "/fa23/",
     
     "relUrl": "/"
@@ -239,7 +239,7 @@
   },"34": {
     "doc": "Lecture 6 - Overview of Bayesian Modeling",
     "title": "Lecture 6 - Overview of Bayesian Modeling",
-    "content": "Presented by Aditya Guntuboyina . | No slides | Demo | . ",
+    "content": "Presented by Aditya Guntuboyina . | Lecture Notes (HTML) | Handwritten Notes | In-class Demo | Recording | . ",
     "url": "/fa23/lecture/lec06/",
     
     "relUrl": "/lecture/lec06/"

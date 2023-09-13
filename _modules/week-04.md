@@ -9,7 +9,7 @@ Sep 12
 : **Lecture 6**{: .label .label-lecture } [Overview of Bayesian Modeling](lecture/lec06)
 
 Sep 13
-: **Discussion**{: .label .label-disc } Discussion 3
+: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1Iqjf5qKma2WF2COpEfja0QNGHz0Owk42/view?usp=sharing)
 
 Sep 14
 : **Lecture 7**{: .label .label-lecture} Graphical Models
