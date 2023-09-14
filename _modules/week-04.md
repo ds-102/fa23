@@ -13,7 +13,7 @@ Sep 13
     : [Solutions](https://drive.google.com/file/d/13NvRfhvMJiZYxydT_z-_uT6Znwll4mqo/view?usp=sharing)
 
 Sep 14
-: **Lecture 7**{: .label .label-lecture} Graphical Models
+: **Lecture 7**{: .label .label-lecture} [Beta-Binomial Inference](lecture/lec07)
 : **Vitamin**{: .label .label-vit } Vitamin 4 (due Sep 17)
 
 Sep 15
