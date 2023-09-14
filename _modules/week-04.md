@@ -10,6 +10,7 @@ Sep 12
 
 Sep 13
 : **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1Iqjf5qKma2WF2COpEfja0QNGHz0Owk42/view?usp=sharing)
+    :[Solutions](https://drive.google.com/file/d/13NvRfhvMJiZYxydT_z-_uT6Znwll4mqo/view?usp=sharing)
 
 Sep 14
 : **Lecture 7**{: .label .label-lecture} Graphical Models
