@@ -14,7 +14,7 @@ Sep 13
 
 Sep 14
 : **Lecture 7**{: .label .label-lecture} [Beta-Binomial Inference](lecture/lec07)
-: **Vitamin**{: .label .label-vit } Vitamin 4 (due Sep 17)
+: **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/572015/assignments/3333526/) (due Sep 17)
 
 Sep 15
 : **Homework**{: .label .label-hw } Homework 2 (due Sep 29)
