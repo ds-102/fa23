@@ -246,7 +246,7 @@
   },"35": {
     "doc": "Lecture 7 - Beta-Binomial Inference",
     "title": "Lecture 7: Beta-Binomial Inference",
-    "content": "Presented by Aditya Guntuboyina . | Lecture Notes (HTML) . | The interactive maps are not showing up in the HTML files; you can access them using the Jupyter Notebook, or through the following links . | Death Rates using naive proportions | Death Rates using Bayes estimates | . | . | Plots of Beta density used in class: Plot 1, Plot 2 . | Recording | . ",
+    "content": "Presented by Aditya Guntuboyina . | Lecture Notes (HTML) . | The interactive maps are not showing up in the HTML files; you can access them using the Jupyter Notebook, or through the following links . | Death Rates using naive proportions | Death Rates using Bayes estimates | . | . | Plots of Beta density used in class: Plot 1, Plot 2 . | In-Class Demo . | Recording | . ",
     "url": "/fa23/lecture/lec07/#lecture-7-beta-binomial-inference",
     
     "relUrl": "/lecture/lec07/#lecture-7-beta-binomial-inference"
