@@ -3,7 +3,7 @@ title: 'Week 5: Bayesian Modeling II'
 ---
 
 Sep 18
-: **Lab 3**{: .label .label-lab } Bayesian Estimation in Hierarchical Graphical Models (due Sep 20)
+: **Lab 3**{: .label .label-lab } [Bayesian Estimation in Hierarchical Graphical Models](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Sep 20)
 
 Sep 19
 : **Lecture 8**{: .label .label-lecture } Rejection Sampling and Markov Chains

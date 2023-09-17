@@ -17,4 +17,4 @@ Sep 14
 : **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/572015/assignments/3333526/) (due Sep 17)
 
 Sep 15
-: **Homework**{: .label .label-hw } Homework 2 (due Sep 29)
+: **Homework**{: .label .label-hw } [Homework 2](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fhw%2Fhw02%2Fhw2.pdf&branch=main) ([PDF](resources/assets/hw/hw2.pdf)) (due Sep 29 **5 PM**)
