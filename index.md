@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: week-4-bayesian-modeling-i
+currWeekNumber: week-5-bayesian-modeling-ii
 ---
 
 # Data 102: Data, Inference, and Decisions
