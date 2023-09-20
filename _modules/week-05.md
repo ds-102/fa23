@@ -9,7 +9,7 @@ Sep 19
 : **Lecture 8**{: .label .label-lecture } [Graphical Models, PyMC](lecture/lec08)
 
 Sep 20
-: **Discussion**{: .label .label-disc } Discussion 4
+: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/1CfqeOf7aG95q3hR_KbJp7_IKtzbXClZz/view?usp=sharing)
 
 Sep 21
 : **Lecture 9**{: .label .label-lecture} Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
