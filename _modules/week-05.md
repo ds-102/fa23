@@ -10,7 +10,8 @@ Sep 19
 
 Sep 20
 : **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/1CfqeOf7aG95q3hR_KbJp7_IKtzbXClZz/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1dpYvYNmZH3mebszXUNmkQHMz8wC8LU5O/view?usp=sharing)
 
 Sep 21
-: **Lecture 9**{: .label .label-lecture} Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
+: **Lecture 9**{: .label .label-lecture} [More PyMC, Rejection Sampling](lecture/lec09)
 : **Vitamin**{: .label .label-vit } Vitamin 5 (due Sep 24)
