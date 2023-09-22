@@ -14,4 +14,4 @@ Sep 20
 
 Sep 21
 : **Lecture 9**{: .label .label-lecture} [More PyMC, Rejection Sampling](lecture/lec09)
-: **Vitamin**{: .label .label-vit } Vitamin 5 (due Sep 24)
+: **Vitamin**{: .label .label-vit } [Vitamin 5](https://www.gradescope.com/courses/572015/assignments/3383183) (due Sep 24)
