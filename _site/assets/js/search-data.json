@@ -120,7 +120,7 @@
   },"17": {
     "doc": "Home",
     "title": "Week 6: GLM I",
-    "content": "Sep 25 Lab 4 Rejection Sampling, More PyMC (due Sep 27) Sep 26 Lecture 10 Regression and GLMs Sep 27 Discussion Discussion 5 Sep 28 Lecture 11 Model checking for GLMs Vitamin Vitamin 6 (due Oct 1) ",
+    "content": "Sep 25 Lab 4 Rejection Sampling, More PyMC (due Sep 27) Sep 26 Lecture 10 Gibbs Sampling, Linear Regression Sep 27 Discussion Discussion 5 Sep 28 Lecture 11 Model checking for GLMs Vitamin Vitamin 6 (due Oct 1) ",
     "url": "/fa23/#week-6-glm-i",
     
     "relUrl": "/#week-6-glm-i"
