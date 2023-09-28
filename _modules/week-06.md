@@ -10,6 +10,7 @@ Sep 26
 
 Sep 27
 : **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1uWdP-ArSh2pklbBo14vz-7ffixBXmMxD/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1FucFXdFlgQ0-TpPV21FmuipTZKHq8Mra/view?usp=sharing)
 
 Sep 28
 : **Lecture 11**{: .label .label-lecture} Model checking for GLMs
