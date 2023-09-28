@@ -13,5 +13,5 @@ Sep 27
     : [Solution](https://drive.google.com/file/d/1FucFXdFlgQ0-TpPV21FmuipTZKHq8Mra/view?usp=sharing)
 
 Sep 28
-: **Lecture 11**{: .label .label-lecture} Model checking for GLMs
+: **Lecture 11**{: .label .label-lecture} [Generalized Linear Models](lecture/lec11)
 : **Vitamin**{: .label .label-vit } Vitamin 6 (due Oct 1)
