@@ -14,4 +14,4 @@ Sep 27
 
 Sep 28
 : **Lecture 11**{: .label .label-lecture} [Generalized Linear Models](lecture/lec11)
-: **Vitamin**{: .label .label-vit } Vitamin 6 (due Oct 1)
+: **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/572015/assignments/3435311) (due Oct 1)
