@@ -127,7 +127,7 @@
   },"18": {
     "doc": "Home",
     "title": "Week 7: GLM II",
-    "content": "Oct 2 Lab 5 GLM and the Bootstrap (due Oct 4) Oct 3 Lecture 12 Uncertainty quantification for GLMs Oct 4 Discussion Discussion 6 Oct 5 Midterm Midterm 1 (7-9 PM) Vitamin Vitamin 7 (due Oct 8) Oct 6 Homework Homework 3 (due Oct 20) ",
+    "content": "Oct 2 Lab 5 Gibbs Sampling and GLM (due Oct 4) Oct 3 Lecture 12 Uncertainty quantification for GLMs Oct 4 Discussion Discussion 6 Oct 5 Midterm Midterm 1 (7-9 PM) Vitamin Vitamin 7 (due Oct 8) Oct 6 Homework Homework 3 (due Oct 20) ",
     "url": "/fa23/#week-7-glm-ii",
     
     "relUrl": "/#week-7-glm-ii"
