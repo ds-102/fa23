@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: week-6-glm-i
+currWeekNumber: week-7-glm-ii
 ---
 
 # Data 102: Data, Inference, and Decisions
