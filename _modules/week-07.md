@@ -9,7 +9,7 @@ Oct 3
 : **Lecture 12**{: .label .label-lecture } [More GLMs](lecture/lec12)
 
 Oct 4
-: **Discussion**{: .label .label-disc } Discussion 6
+: **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1a3HA9rFkV4n8zdDEddTtCDH7xqPfr0zE/view?usp=sharing)
 
 Oct 5
 : **Midterm**{: .label .label-exam} Midterm 1 (7-9 PM)
