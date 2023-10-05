@@ -134,7 +134,7 @@
   },"19": {
     "doc": "Home",
     "title": "Week 7: GLM II",
-    "content": "Oct 2 Lab 5 Gibbs Sampling and GLM (due Oct 4) Oct 3 Lecture 12 More GLMs Oct 4 Discussion Discussion 6 Solution Oct 5 Midterm Midterm 1 (7-9 PM) Vitamin Vitamin 7 (due Oct 8) Oct 6 Homework Homework 3 (due Oct 20) ",
+    "content": "Oct 2 Lab 5 Gibbs Sampling and GLM (due Oct 4) Oct 3 Lecture 12 Model Selection and Model Checking for GLMs Oct 4 Discussion Discussion 6 Solution Oct 5 Midterm Midterm 1 (7-9 PM) Vitamin Vitamin 7 (due Oct 8) Oct 6 Homework Homework 3 (due Oct 20) ",
     "url": "/fa23/#week-7-glm-ii",
     
     "relUrl": "/#week-7-glm-ii"
@@ -335,15 +335,15 @@
     
     "relUrl": "/lecture/lec11/"
   },"48": {
-    "doc": "Lecture 12 - More on Poisson Regression, and GLMs",
-    "title": "Lecture 12: More on Poisson Regression, and GLMs",
-    "content": "Presented by Aditya Guntuboyina . | In-Class Demo | . ",
-    "url": "/fa23/lecture/lec12/#lecture-12-more-on-poisson-regression-and-glms",
+    "doc": "Lecture 12 - Model Selection and Model Checking for GLMs",
+    "title": "Lecture 12: Model Selection and Model Checking for GLMs",
+    "content": "Presented by Aditya Guntuboyina . | Lecture Notes (HTML) . | In-Class Demo . | Recording . | . ",
+    "url": "/fa23/lecture/lec12/#lecture-12-model-selection-and-model-checking-for-glms",
     
-    "relUrl": "/lecture/lec12/#lecture-12-more-on-poisson-regression-and-glms"
+    "relUrl": "/lecture/lec12/#lecture-12-model-selection-and-model-checking-for-glms"
   },"49": {
-    "doc": "Lecture 12 - More on Poisson Regression, and GLMs",
-    "title": "Lecture 12 - More on Poisson Regression, and GLMs",
+    "doc": "Lecture 12 - Model Selection and Model Checking for GLMs",
+    "title": "Lecture 12 - Model Selection and Model Checking for GLMs",
     "content": " ",
     "url": "/fa23/lecture/lec12/",
     
