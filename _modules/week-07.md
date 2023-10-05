@@ -10,6 +10,7 @@ Oct 3
 
 Oct 4
 : **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1a3HA9rFkV4n8zdDEddTtCDH7xqPfr0zE/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/19fDAUX_qtzg8nF4qOO1-k54RFZ5mQVEo/view?usp=sharing)
 
 Oct 5
 : **Midterm**{: .label .label-exam} Midterm 1 (7-9 PM)
