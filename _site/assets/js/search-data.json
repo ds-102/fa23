@@ -134,49 +134,49 @@
   },"19": {
     "doc": "Home",
     "title": "Week 7: GLM II",
-    "content": "Oct 2 Lab 5 Gibbs Sampling and GLM (due Oct 4) Oct 3 Lecture 12 Model Selection and Model Checking for GLMs Oct 4 Discussion Discussion 6 Solution Oct 5 Midterm Midterm 1 (7-9 PM) Vitamin Vitamin 7 (due Oct 8) Oct 6 Homework Homework 3 (due Oct 20) ",
+    "content": "Oct 2 Lab 5 Gibbs Sampling and GLM (due Oct 4) Oct 3 Lecture 12 Model Selection and Model Checking for GLMs Oct 4 Discussion Discussion 6 Solution Oct 5 Midterm Midterm 1 (7-9 PM) Oct 6 Homework Homework 3 (due Oct 20) ",
     "url": "/fa23/#week-7-glm-ii",
     
     "relUrl": "/#week-7-glm-ii"
   },"20": {
     "doc": "Home",
     "title": "Week 8: Machine Learning",
-    "content": "Oct 10 Lecture 13 Nonparametric Methods and Neural Networks Oct 11 Discussion Discussion 7 Oct 12 Lecture 14 Neural Networks and Interpretability Vitamin Vitamin 8 (due Oct 15) ",
+    "content": "Oct 10 Lecture 13 Nonparametric Methods and Neural Networks Oct 11 Discussion Discussion 7 Oct 12 Lecture 14 Neural Networks and Interpretability Vitamin Vitamin 7 (due Oct 15) ",
     "url": "/fa23/#week-8-machine-learning",
     
     "relUrl": "/#week-8-machine-learning"
   },"21": {
     "doc": "Home",
     "title": "Week 9: Causal Inference I",
-    "content": "Oct 16 Lab 6 Nonparametric Methods (due Oct 18) Oct 17 Lecture 15 Association and Causation Oct 18 Discussion Discussion 8 Oct 19 Lecture 16 Randomized Experiments Vitamin Vitamin 9 (due Oct 22) Oct 20 Homework Homework 4 (due Nov 3) ",
+    "content": "Oct 16 Lab 6 Nonparametric Methods (due Oct 18) Oct 17 Lecture 15 Association and Causation Oct 18 Discussion Discussion 8 Oct 19 Lecture 16 Randomized Experiments Vitamin Vitamin 8 (due Oct 22) Oct 20 Homework Homework 4 (due Nov 3) ",
     "url": "/fa23/#week-9-causal-inference-i",
     
     "relUrl": "/#week-9-causal-inference-i"
   },"22": {
     "doc": "Home",
     "title": "Week 10: Causal Inference II",
-    "content": "Oct 23 Lab 7 Causal Inference via Instrumental Variables (due Oct 25) Oct 24 Lecture 17 Observational Studies Oct 25 Discussion Discussion 9 Oct 26 Lecture 18 Concentration Inequalities Vitamin Vitamin 10 (due Oct 29) ",
+    "content": "Oct 23 Lab 7 Causal Inference via Instrumental Variables (due Oct 25) Oct 24 Lecture 17 Observational Studies Oct 25 Discussion Discussion 9 Oct 26 Lecture 18 Concentration Inequalities Vitamin Vitamin 9 (due Oct 29) ",
     "url": "/fa23/#week-10-causal-inference-ii",
     
     "relUrl": "/#week-10-causal-inference-ii"
   },"23": {
     "doc": "Home",
     "title": "Week 11: Bandits",
-    "content": "Oct 30 Lab 8 Causal Inference via Unconfoundedness (due Nov 1) Oct 31 Lecture 19 Bandits I Nov 1 Discussion Discussion 10 Nov 2 Lecture 20 Bandits II Vitamin Vitamin 11 (due Nov 5) Nov 3 Homework Homework 5 (due Nov 10) ",
+    "content": "Oct 30 Lab 8 Causal Inference via Unconfoundedness (due Nov 1) Oct 31 Lecture 19 Bandits I Nov 1 Discussion Discussion 10 Nov 2 Lecture 20 Bandits II Vitamin Vitamin 10 (due Nov 5) Nov 3 Homework Homework 5 (due Nov 10) ",
     "url": "/fa23/#week-11-bandits",
     
     "relUrl": "/#week-11-bandits"
   },"24": {
     "doc": "Home",
     "title": "Week 12: Reinforcement Learning",
-    "content": "Nov 6 Lab 9 Bandits (due Nov 8) Nov 7 Lecture 21 Reinforcement Learning I Nov 8 Discussion Discussion 11 Nov 9 Lecture 22 Reinforcement Learning II Vitamin Vitamin 12 (due Nov 12) ",
+    "content": "Nov 6 Lab 9 Bandits (due Nov 8) Nov 7 Lecture 21 Reinforcement Learning I Nov 8 Discussion Discussion 11 Nov 9 Lecture 22 Reinforcement Learning II Vitamin Vitamin 11 (due Nov 12) ",
     "url": "/fa23/#week-12-reinforcement-learning",
     
     "relUrl": "/#week-12-reinforcement-learning"
   },"25": {
     "doc": "Home",
     "title": "Week 13: Regression revisited",
-    "content": "Nov 13 Lab 10 Reinforcement Learning (due Nov 15) Nov 14 Midterm Midterm 2 (7-9 PM) Nov 16 Lecture 23 High-dimensional regression Vitamin Vitamin 13 (due Nov 19) Nov 17 Homework Homework 6 (due Dec 1) ",
+    "content": "Nov 13 Lab 10 Reinforcement Learning (due Nov 15) Nov 14 Midterm Midterm 2 (7-9 PM) Nov 16 Lecture 23 High-dimensional regression Vitamin Vitamin 12 (due Nov 19) Nov 17 Homework Homework 6 (due Dec 1) ",
     "url": "/fa23/#week-13-regression-revisited",
     
     "relUrl": "/#week-13-regression-revisited"
