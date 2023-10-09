@@ -3,7 +3,7 @@ title: 'Week 12: Reinforcement Learning'
 ---
 
 Nov 6
-: **Lab 9**{: .label .label-lab } Bandits (due Nov 8)
+: **Lab 10**{: .label .label-lab } Bandits (due Nov 8)
 
 Nov 7
 : **Lecture 21**{: .label .label-lecture } Reinforcement Learning I

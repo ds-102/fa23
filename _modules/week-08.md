@@ -1,6 +1,8 @@
 ---
 title: 'Week 8: Machine Learning'
 ---
+Oct 9
+: **Lab 6**{: .label .label-lab } [Model Selection and Uncertainty Quantification with GLMs](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Oct 11)
 
 Oct 10
 : **Lecture 13**{: .label .label-lecture } Nonparametric Methods and Neural Networks

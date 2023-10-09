@@ -2,7 +2,7 @@
 title: 'Week 15: Wrap-Up'
 ---
 Nov 27
-: **Lab 11**{: .label .label-lab } Differential Privacy (due Nov 29)
+: **Lab 12**{: .label .label-lab } Differential Privacy (due Nov 29)
 
 Nov 28
 : **Lecture 25**{: .label .label-lecture } Case Study: Robustness and generalization

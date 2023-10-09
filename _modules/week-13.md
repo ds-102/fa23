@@ -3,7 +3,7 @@ title: 'Week 13: Regression revisited'
 ---
 
 Nov 13
-: **Lab 10**{: .label .label-lab } Reinforcement Learning (due Nov 15)
+: **Lab 11**{: .label .label-lab } Reinforcement Learning (due Nov 15)
 
 Nov 14
 : **Midterm**{: .label .label-exam } Midterm 2 (7-9 PM)

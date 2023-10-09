@@ -3,7 +3,7 @@ title: 'Week 10: Causal Inference II'
 ---
 
 Oct 23
-: **Lab 7**{: .label .label-lab } Causal Inference via Instrumental Variables (due Oct 25)
+: **Lab 8**{: .label .label-lab } Causal Inference via Instrumental Variables (due Oct 25)
 
 Oct 24
 : **Lecture 17**{: .label .label-lecture } Observational Studies

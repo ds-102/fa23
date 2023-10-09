@@ -3,7 +3,7 @@ title: 'Week 11: Bandits'
 ---
 
 Oct 30
-: **Lab 8**{: .label .label-lab } Causal Inference via Unconfoundedness (due Nov 1)
+: **Lab 9**{: .label .label-lab } Causal Inference via Unconfoundedness (due Nov 1)
 
 Oct 31
 : **Lecture 19**{: .label .label-lecture } Bandits I
