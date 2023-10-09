@@ -16,4 +16,4 @@ Oct 5
 : **Midterm**{: .label .label-exam} Midterm 1 (7-9 PM)
 
 Oct 6
-: **Homework**{: .label .label-hw } Homework 3 (due Oct 20)
+: **Homework**{: .label .label-hw } [Homework 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fhw%2Fhw03%2Fhw3.pdf&branch=main) ([PDF](resources/assets/hw/hw3.pdf)) (due Oct 20)
