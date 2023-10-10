@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Home",
     "title": "Week 8: Machine Learning",
-    "content": "Oct 9 Lab 6 Model Selection and Uncertainty Quantification with GLMs (due Oct 11) Oct 10 Lecture 13 Nonparametric Methods and Neural Networks Oct 11 Discussion Discussion 7 Oct 12 Lecture 14 Neural Networks and Interpretability Vitamin Vitamin 7 (due Oct 15) ",
+    "content": "Oct 9 Lab 6 Model Selection and Uncertainty Quantification with GLMs (due Oct 11) Oct 10 Lecture 13 Nonparametric Methods Oct 11 Discussion Discussion 7 Oct 12 Lecture 14 Neural Networks and Interpretability Vitamin Vitamin 7 (due Oct 15) ",
     "url": "/fa23/#week-8-machine-learning",
     
     "relUrl": "/#week-8-machine-learning"
@@ -356,15 +356,15 @@
     
     "relUrl": "/lecture/lec12/"
   },"51": {
-    "doc": "Lecture 13 - Non-Parametric Models",
-    "title": "Lecture 13: Non-Parametric Models",
-    "content": "Presented by Aditya Guntuboyina . ",
-    "url": "/fa23/lecture/lec13/#lecture-13-non-parametric-models",
+    "doc": "Lecture 13 - Nonparametric Methods",
+    "title": "Lecture 13: Nonparametric Methods",
+    "content": "Presented by Aditya Guntuboyina . | In-Class Demo | . ",
+    "url": "/fa23/lecture/lec13/#lecture-13-nonparametric-methods",
     
-    "relUrl": "/lecture/lec13/#lecture-13-non-parametric-models"
+    "relUrl": "/lecture/lec13/#lecture-13-nonparametric-methods"
   },"52": {
-    "doc": "Lecture 13 - Non-Parametric Models",
-    "title": "Lecture 13 - Non-Parametric Models",
+    "doc": "Lecture 13 - Nonparametric Methods",
+    "title": "Lecture 13 - Nonparametric Methods",
     "content": " ",
     "url": "/fa23/lecture/lec13/",
     
