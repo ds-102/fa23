@@ -8,7 +8,7 @@ Oct 10
 : **Lecture 13**{: .label .label-lecture } [Nonparametric Methods](lecture/lec13)
 
 Oct 11
-: **Discussion**{: .label .label-disc } Discussion 7
+: **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/10DVoqBBTeq1_PiZ7XpHF5FGWTg1arXkV/view?usp=sharing)
 
 Oct 12
 : **Lecture 14**{: .label .label-lecture } Neural Networks and Interpretability
