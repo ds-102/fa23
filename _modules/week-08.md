@@ -9,6 +9,7 @@ Oct 10
 
 Oct 11
 : **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/10DVoqBBTeq1_PiZ7XpHF5FGWTg1arXkV/view?usp=sharing)
+    : [Solutions](https://drive.google.com/file/d/1JGxdaLJoePkd2dtbH9uWZukvWlW_8QPC/view?usp=sharing)
 
 Oct 12
 : **Lecture 14**{: .label .label-lecture } Neural Networks and Interpretability
