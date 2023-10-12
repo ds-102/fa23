@@ -12,5 +12,5 @@ Oct 11
     : [Solutions](https://drive.google.com/file/d/1JGxdaLJoePkd2dtbH9uWZukvWlW_8QPC/view?usp=sharing)
 
 Oct 12
-: **Lecture 14**{: .label .label-lecture } Neural Networks and Interpretability
+: **Lecture 14**{: .label .label-lecture } [Neural Networks](lecture/lec14)
 : **Vitamin**{: .label .label-vit } Vitamin 7 (due Oct 15)
