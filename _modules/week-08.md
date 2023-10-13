@@ -13,4 +13,4 @@ Oct 11
 
 Oct 12
 : **Lecture 14**{: .label .label-lecture } [Neural Networks](lecture/lec14)
-: **Vitamin**{: .label .label-vit } Vitamin 7 (due Oct 15)
+: **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/572015/assignments/3517073) (due Oct 15)
