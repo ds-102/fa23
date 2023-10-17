@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 15 - Neural Networks
+title: Lecture 16 - Causal Inference 2, Randomized Experiments
 nav_exclude: true
 ---
 

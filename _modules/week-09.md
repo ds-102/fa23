@@ -12,7 +12,7 @@ Oct 18
 : **Discussion**{: .label .label-disc } Discussion 8
 
 Oct 19
-: **Lecture 16**{: .label .label-lecture } [Causal Inference 1: Randomized Experiments](lecture/lec14)
+: **Lecture 16**{: .label .label-lecture } [Causal Inference 2: Randomized Experiments](lecture/lec14)
 : **Vitamin**{: .label .label-vit } Vitamin 8 (due Oct 22)
 
 Oct 20
