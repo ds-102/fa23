@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: week-8-machine-learning
+currWeekNumber: week-9-causal-inference-i
 ---
 
 # Data 102: Data, Inference, and Decisions
