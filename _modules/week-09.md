@@ -14,7 +14,7 @@ Oct 18
 
 Oct 19
 : **Lecture 16**{: .label .label-lecture } [Causal Inference 2: Randomized Experiments](lecture/lec14)
-: **Vitamin**{: .label .label-vit } Vitamin 8 (due Oct 22)
+: **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/572015/assignments/3554991) (due Oct 22)
 
 Oct 20
 : **Homework**{: .label .label-hw } Homework 4 (due Nov 3)
