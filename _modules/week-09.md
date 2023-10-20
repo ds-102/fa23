@@ -13,7 +13,7 @@ Oct 18
     : [Solutions](https://drive.google.com/file/d/1aRs75gjL8aheOVolVlz704qWcg8GsAb3/view?usp=sharing)
 
 Oct 19
-: **Lecture 16**{: .label .label-lecture } [Causal Inference 2: Randomized Experiments](lecture/lec14)
+: **Lecture 16**{: .label .label-lecture } [Causal Inference 2: Randomized Experiments](lecture/lec16)
 : **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/572015/assignments/3554991) (due Oct 22)
 
 Oct 20

@@ -407,7 +407,7 @@
   },"58": {
     "doc": "Lecture 16 - Causal Inference 2, Randomized Experiments",
     "title": "Lecture 16: Causal Inference 2, Randomized Experiments",
-    "content": "Presented by Ramesh Sridharan . | Required reading: Discrimination in hiring article (pdf) and skim the paper | Slides | Recording | . ",
+    "content": "Presented by Ramesh Sridharan . | Required reading: Discrimination in hiring article (pdf) and skim the paper | Slides (PDF, annotated) | Lecture Notes: Causality and Potential Outcomes | Lecture Notes: Randomized Experiments | Lecture Notes: Instrumental Variables . | Recording | . ",
     "url": "/fa23/lecture/lec16/#lecture-16-causal-inference-2-randomized-experiments",
     
     "relUrl": "/lecture/lec16/#lecture-16-causal-inference-2-randomized-experiments"
