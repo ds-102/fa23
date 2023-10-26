@@ -13,5 +13,5 @@ Oct 25
     : [Solution](https://drive.google.com/file/d/1nUMwy7lLN6yCL7BmJpvCMrL2H8B9nJE8/view?usp=sharing)
 
 Oct 26
-: **Lecture 18**{: .label .label-lecture } Concentration Inequalities
+: **Lecture 18**{: .label .label-lecture } [Concentration Inequalities](lecture/lec18)
 : **Vitamin**{: .label .label-vit } Vitamin 9 (due Oct 29)
