@@ -10,6 +10,7 @@ Oct 24
 
 Oct 25
 : **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1rDSg1Yj6WR1KRiblvvKAk6PUusztf5iZ/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1nUMwy7lLN6yCL7BmJpvCMrL2H8B9nJE8/view?usp=sharing)
 
 Oct 26
 : **Lecture 18**{: .label .label-lecture } Concentration Inequalities
