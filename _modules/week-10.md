@@ -14,4 +14,4 @@ Oct 25
 
 Oct 26
 : **Lecture 18**{: .label .label-lecture } [Concentration Inequalities](lecture/lec18)
-: **Vitamin**{: .label .label-vit } Vitamin 9 (due Oct 29)
+: **Vitamin**{: .label .label-vit } [Vitamin 9](https://www.gradescope.com/courses/572015/assignments/3591859) (due Oct 29)
