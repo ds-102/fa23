@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: week-10-causal-inference-ii
+currWeekNumber: week-11-bandits
 ---
 
 # Data 102: Data, Inference, and Decisions
