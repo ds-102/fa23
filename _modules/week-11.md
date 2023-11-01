@@ -9,7 +9,7 @@ Oct 31
 : **Lecture 19**{: .label .label-lecture } [Bandits I](lecture/lec19)
 
 Nov 1
-: **Discussion**{: .label .label-disc } Discussion 10
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/11e6E7RC9EatJUrkQrsiTYRSI2TDQvnu2/view?usp=sharing)
 
 Nov 2
 : **Lecture 20**{: .label .label-lecture } Bandits II
