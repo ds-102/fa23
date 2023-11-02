@@ -10,6 +10,7 @@ Oct 31
 
 Nov 1
 : **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/11e6E7RC9EatJUrkQrsiTYRSI2TDQvnu2/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1_BRYsYsXGudhle204IbUamlhn8N_KAxY/view?usp=sharing)
 
 Nov 2
 : **Lecture 20**{: .label .label-lecture } Bandits II
