@@ -7,6 +7,8 @@ Oct 30
 
 Oct 31
 : **Lecture 19**{: .label .label-lecture } [Bandits I](lecture/lec19)
+: **Project**{: .label .label-proj } Final Project Release
+    : [Guidelines](https://drive.google.com/file/d/1cBz7raoqPeYcshWqv89KslZIOTfC91-F/view?usp=sharing), [Grading Rubrics](https://drive.google.com/file/d/1xc_VdmMouPWRD6S3SEREjIG1wmP5ot-H/view?usp=sharing)
 
 Nov 1
 : **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/11e6E7RC9EatJUrkQrsiTYRSI2TDQvnu2/view?usp=sharing)

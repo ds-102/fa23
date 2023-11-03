@@ -12,3 +12,6 @@ Nov 29
 
 Nov 30
 : **Lecture 26**{: .label .label-lecture } Course Wrap-Up
+
+Dec 1
+: **Project**{: .label .label-proj } Project Checkpoint 2 Due

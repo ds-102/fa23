@@ -14,3 +14,6 @@ Nov 8
 Nov 9
 : **Lecture 22**{: .label .label-lecture } Reinforcement Learning II
 : **Vitamin**{: .label .label-vit } Vitamin 11 (due Nov 12)
+
+Nov 10
+: **Project**{: .label .label-proj } Project Proposal Due
