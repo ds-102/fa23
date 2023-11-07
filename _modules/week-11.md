@@ -19,4 +19,4 @@ Nov 2
 : **Vitamin**{: .label .label-vit } [Vitamin 10](https://www.gradescope.com/courses/572015/assignments/3625833) (due Nov 5)
 
 Nov 3
-: **Homework**{: .label .label-hw } [Homework 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fhw%2Fhw05%2Fhw5.pdf&branch=main) ([PDF](resources/assets/hw/hw5.pdf)) (due Nov 10)
+: **Homework**{: .label .label-hw } [Homework 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fhw%2Fhw05%2Fhw5.pdf&branch=main) ([PDF](resources/assets/hw/hw5.pdf)) (Optional, **not** due Nov 10)
