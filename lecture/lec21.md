@@ -12,4 +12,4 @@ Presented by Ramesh Sridharan
 
 - [Lecture Demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=tree%2Ffa23-materials%2Flecture%2Flecture21%2Fdynamic_programming.ipynb&branch=main){:target="_blank"}
 
-- Recording
+- [Recording](https://bcourses.berkeley.edu/courses/1526710/pages/lecture-21-reinforcement-learning-i){:target="_blank"}
