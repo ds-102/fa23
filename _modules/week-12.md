@@ -9,11 +9,11 @@ Nov 7
 : **Lecture 21**{: .label .label-lecture } [Reinforcement Learning I](lecture/lec21)
 
 Nov 8
-: **Discussion**{: .label .label-disc } Discussion 11
+: **Discussion**{: .label .label-disc } [Discussion 11](https://drive.google.com/file/d/1EElwF3fmg_y8SP-9EKm4AkiJ6zJWtUhU/view?usp=sharing)
 
 Nov 9
 : **Lecture 22**{: .label .label-lecture } Reinforcement Learning II
 : **Vitamin**{: .label .label-vit } Vitamin 11 (due Nov 12)
 
 Nov 10
-: **Project**{: .label .label-proj } Project Proposal Due
+: **Project**{: .label .label-proj } [Project Proposal](https://edstem.org/us/courses/42657/discussion/3786718) Due
