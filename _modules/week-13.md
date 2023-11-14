@@ -4,6 +4,7 @@ title: 'Week 13: Regression revisited'
 
 Nov 14
 : **Midterm**{: .label .label-exam } Midterm 2 (7-9 PM)
+    : [Reference Sheet](resources/assets/exams/mt2reference.pdf)
 
 Nov 16
 : **Lecture 23**{: .label .label-lecture } High-dimensional regression
