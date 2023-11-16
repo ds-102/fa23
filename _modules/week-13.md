@@ -7,7 +7,7 @@ Nov 14
     : [Reference Sheet](resources/assets/exams/mt2reference.pdf)
 
 Nov 16
-: **Lecture 23**{: .label .label-lecture } High-dimensional regression
+: **Lecture 23**{: .label .label-lecture } [High-dimensional regression](lecture/lec23)
 : **Vitamin**{: .label .label-vit } Vitamin 12 (due Nov 19)
 
 Nov 17

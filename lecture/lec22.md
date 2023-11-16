@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Ramesh Sridharan
 
-- [Slides](https://docs.google.com/presentation/d/1F9oNb6191YgcO1wY1CmMxeMaryFey_eVe1mGKszdC50/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1F9oNb6191YgcO1wY1CmMxeMaryFey_eVe1mGKszdC50/edit?usp=sharing){:target="_blank"}
 
 - [Lecture Demo](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa23-materials&urlpath=tree%2Ffa23-materials%2Flecture%2Flecture22%2Fvalue_iteration.ipynb&branch=main){:target="_blank"}
 
