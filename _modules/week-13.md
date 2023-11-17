@@ -8,7 +8,7 @@ Nov 14
 
 Nov 16
 : **Lecture 23**{: .label .label-lecture } [High-dimensional regression](lecture/lec23)
-: **Vitamin**{: .label .label-vit } Vitamin 12 (due Nov 19)
+: **Vitamin**{: .label .label-vit } [Vitamin 12](https://www.gradescope.com/courses/572015/assignments/3695897) (due Nov 19)
 
 Nov 17
 : **Homework**{: .label .label-hw } Homework 6 (due Dec 1)
