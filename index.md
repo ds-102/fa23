@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-currWeekNumber: week-13-regression-revisited
+currWeekNumber: week-14-privacy
 ---
 
 # Data 102: Data, Inference, and Decisions

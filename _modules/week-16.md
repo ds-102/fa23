@@ -7,6 +7,7 @@ Dec 4
 
 Dec 5
 : *Office Hour*
+: **Project**{: .label .label-proj } Project Checkpoint 2 Due
 
 Dec 6
 : *Office Hour*

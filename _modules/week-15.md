@@ -9,9 +9,7 @@ Nov 28
 
 Nov 29
 : **Discussion**{: .label .label-disc } Discussion 12
+: **Project**{: .label .label-proj } Project Checkpoint 1 Due
 
 Nov 30
 : **Lecture 26**{: .label .label-lecture } Course Wrap-Up
-
-Dec 1
-: **Project**{: .label .label-proj } Project Checkpoint 2 Due
