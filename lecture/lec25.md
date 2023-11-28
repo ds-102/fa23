@@ -8,6 +8,6 @@ nav_exclude: true
 
 Presented by Ramesh Sridharan
 
-- [Slides](https://docs.google.com/presentation/d/1yA3rMIY1iSD63yvL8XuJHQzjCN9b-pcN_4Da4JtEsHw/edit?usp=sharing){:target="_blank"}
+- [Slides](https://docs.google.com/presentation/d/1frD32CEF571p1Pq0R8o9gVAyC4lQzhSAHvF0ePu_hfU/edit?usp=sharing){:target="_blank"}
 
 - Recording
