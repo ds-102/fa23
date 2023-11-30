@@ -9,6 +9,7 @@ Nov 28
 
 Nov 29
 : **Discussion**{: .label .label-disc } [Discussion 12](https://drive.google.com/file/d/147DZkfflf4edD1rEN4pjpc_VT7EYzZM6/view?usp=sharing)
+    : [Solution](https://drive.google.com/file/d/1yWG9e6CMrFFS3dMNJ5uW8jKLn-78iNGc/view?usp=sharing)
 : **Project**{: .label .label-proj } Project Checkpoint 1 Due
 
 Nov 30
