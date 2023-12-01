@@ -8,6 +8,8 @@ nav_exclude: true
 
 Presented by Ramesh Sridharan
 
+
 - [Slides](https://docs.google.com/presentation/d/1eWHP21xa3q3x8igIxkRnLJseggLTxwdq-2M3VX3RJ7o/edit?usp=sharing){:target="_blank"}
 
-- Recording
+
+- [Recording](https://bcourses.berkeley.edu/courses/1526710/pages/lecture-26-course-wrap-up-and-instructor-ama){:target="_blank"}
