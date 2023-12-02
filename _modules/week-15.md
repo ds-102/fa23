@@ -14,3 +14,4 @@ Nov 29
 
 Nov 30
 : **Lecture 26**{: .label .label-lecture } [Course Wrap-Up](lecture/lec26)
+: **Vitamin**{: .label .label-vit } [Vitamin 13](https://www.gradescope.com/courses/572015/assignments/3745521/) (due Dec 3)
