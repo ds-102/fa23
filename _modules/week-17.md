@@ -1,5 +1,5 @@
 ---
-title: 'Week 16: Finals Week'
+title: 'Week 17: Finals Week'
 ---
 
 Dec 11
