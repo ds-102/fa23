@@ -13,5 +13,5 @@ Sep 27
     : [Solution](https://drive.google.com/file/d/1FucFXdFlgQ0-TpPV21FmuipTZKHq8Mra/view?usp=sharing)
 
 Sep 28
-: **Lecture 11**{: .label .label-lecture} [Generalized Linear Models](lecture/lec11)
+: **Lecture 11**{: .label .label-lecture} Generalized Linear Models
 : **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/572015/assignments/3435311) (due Oct 1)
